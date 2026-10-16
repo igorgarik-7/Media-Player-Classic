@@ -222,4 +222,4 @@ Media Player Classic is a fully free software offering all features and updates 
 Start enjoying your media files like never before! Download Media Player Classic free today and experience the ultimate multimedia playback solution for Windows!
 
 ---
-**Last updated:** 2026-10-16 19:03:32 UTC
+**Last updated:** 2026-10-16 22:14:44 UTC
